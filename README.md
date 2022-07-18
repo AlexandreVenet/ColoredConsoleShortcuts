@@ -35,3 +35,6 @@ ConsoleHelper.TextBackgroundDarkYellow("Text Helper, background");
 
 ConsoleHelper.ResetLength(); // réinit à la valeur par défaut
 ```
+
+Rendu :
+![Rendu des instructions précédentes](Rendu.png)
